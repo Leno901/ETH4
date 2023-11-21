@@ -3,7 +3,7 @@
 ## Overview
 The DegenGamingToken is a Solidity smart contract that extends the ERC-20 token standard. It represents a gaming token with the ability to mint, transfer, burn, and redeem tokens for in-game items. The contract is designed to be owned by an address, providing control over certain functions to the owner.
 
-Author
+## Author
 John O'nel D. Bulos
 
 ## Table of Contents
